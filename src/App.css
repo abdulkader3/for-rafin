@@ -1,0 +1,13 @@
+.animetion {
+    animation: popup 0.4s linear;
+  }
+  
+  @keyframes popup {
+    from {
+      transform: scale(0.1);
+    }
+    to {
+      transform: scale(1);
+    }
+  }
+  
